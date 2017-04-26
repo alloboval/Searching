@@ -1,0 +1,6 @@
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\bin\Debug\SearchingAlgs.exe.config
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\bin\Debug\SearchingAlgs.exe
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\bin\Debug\SearchingAlgs.pdb
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\obj\Debug\SearchingAlgs.csprojResolveAssemblyReference.cache
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\obj\Debug\SearchingAlgs.exe
+C:\Work\Projects C#\Searching\SearchingAlgs\SearchingAlgs\obj\Debug\SearchingAlgs.pdb
