@@ -17,7 +17,7 @@
             return -1; // if not exist
         }
         
-        public static bool IsExist(int[a], int XKey)
+        public static bool SearchBool(int[a], int XKey)
         {
              for(int i = 0; i < a.Length; i++)
                 if(a[i] == XKey)
@@ -44,5 +44,14 @@
             }
             return Tuple.Create(-1, -1); // not found
         }
+        
+        public static bool multiArraySearchBool(int[,] values, int xKey)
+        {
+            foreach (int i in values)
+                if (i == xKey) // looking for the first input in array values
+                    return true;
+            return false; // not found
+        }
+                
     }
 }
