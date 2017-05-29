@@ -2,6 +2,9 @@
 {
     class LineSearch
     {
+        
+        //not a solution to store a coords;
+        //maybe search func must return a tuple?
         public static int positionX, positionY;
 
 
