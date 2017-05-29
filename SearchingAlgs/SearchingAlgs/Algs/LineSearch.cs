@@ -21,7 +21,7 @@
         {
              for(int i = 0; i < a.Length; i++)
                 if(a[i] == XKey)
-                    return true; // return position
+                    return true; // true if exist
             
             return false; // if not exist  
         }
