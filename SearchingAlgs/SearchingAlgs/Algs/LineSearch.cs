@@ -8,15 +8,13 @@
         public static int positionX, positionY;
 
 
-        public static void Search(int[] a, int XKey)
+        public static int Search(int[] a, int XKey)
         {
             for(int i = 0; i < a.Length; i++)
-            {
                 if(a[i] == XKey)
-                {
-                    positionX = i;
-                }
-            }
+                    return i; // return position
+            
+            return -1; // if not exist
         }
 
         public static void Search(int[][] a, int XKey)
