@@ -16,6 +16,15 @@
             
             return -1; // if not exist
         }
+        
+        public static bool IsExist(int[a], int XKey)
+        {
+             for(int i = 0; i < a.Length; i++)
+                if(a[i] == XKey)
+                    return true; // return position
+            
+            return false; // if not exist  
+        }
 
         public static void Search(int[][] a, int XKey)
         {
